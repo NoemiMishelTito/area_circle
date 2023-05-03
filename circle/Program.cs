@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Program to calculates circle");
+        Console.WriteLine("Program to calculates areas of circles");
         //pi*radio*radio
         var radio = 0d;
         var result = 0d;
